@@ -1,0 +1,30 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.data{
+  display:table;
+  width:auto;
+  background-color:#eee;
+  border:1px solid  #666666;
+}
+.col > div{
+  display:table-row;
+  clear:both;
+}
+.col{
+  float:left;
+  display:table-column;
+  width:150px;
+  border:1px solid #666666;
+}
+#map{
+  margin-top: 50px;
+  width: 800px;
+  height:450px;
+}
