@@ -25,4 +25,4 @@ I used jquery because
 - cd .\cse5335-project-1\
 - heroku create cse5335-mxa4346
 - git push heroku master
-- and the application is deployed at https://cse5335-mxa4346.herokuapp.com/
+- and the application is deployed at https://mxa4346-cse5335-1.herokuapp.com/
